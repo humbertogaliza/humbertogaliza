@@ -12,7 +12,6 @@ Hello World, I'm Humberto Galiza nice to e-meet you! I'm a trouble maker & probl
   <img align="center" alt="Galiza-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Galiza-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Galiza-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Galiza-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/12955902?v=4">
 </div>
   
   ##
